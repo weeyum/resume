@@ -34,10 +34,10 @@
 ### Projects
 
 * **geohash.it**
-  <a href=http://geohash.it class=not-printed>ethicalbarcode.com</a>
+  <a href=http://geohash.it class=not-printed>geohash.it</a>
   Visualization tool for the Geohash latitude/longitude system
   http://en.wikipedia.org/wiki/Geohash
 
 * **gramsearch**
-  <a href=http://http://gramsearch.herokuapp.com/ class=not-printed>crimeheatmap.ca</a>
+  <a href=http://http://gramsearch.herokuapp.com/ class=not-printed>gramsearch.herokuapp.com</a>
   Finds media on Instagram and groups them by Foursquare venues on a Google v3 map
