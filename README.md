@@ -2,7 +2,9 @@
 ## Backend Developer & Rubyist
 
 > [williamli.info](http://www.williamli.info)
+
 > [weeyum@gmail.com](mailto:weeyum@gmail.com)
+
 > (415) 317-5363
 
 ------
@@ -23,11 +25,11 @@
 
 ### Experience
 
-**Banjo** *Backend Developer* 2013 to present__
+**Banjo** *Backend Developer* __2013 to present__
+
   Plan and develop service oriented backend. Set up Elasticsearch cluster, indexing
   millions of documents per hour. Plan and ptimize MongoDB queries. Deploy and monitor
   health of Heroku and ElasticBeanstalk Ruby applications.
-  **Technical Environment** Ruby, Ruby on Rails, MongoDB, Elasticsearch, Redis, JavaScript.
 
 ------
 
