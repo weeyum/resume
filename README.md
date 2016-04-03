@@ -1,17 +1,18 @@
 # William Li
 ## Platform Engineer & Rubyist
 
-> [weeyum@gmail.com](mailto:weeyum@gmail.com)
+* [weeyum@gmail.com](mailto:weeyum@gmail.com)
+* (415) 317-5363
+* https://www.linkedin.com/in/weeyum
+* https://github.com/weeyum
 
-> (415) 317-5363
+------
 
-> [![alt text][2]][1][![alt text][4]][3]
+### Summary
 
-  [1]: https://www.linkedin.com/in/weeyum
-  [2]: http://njla.org/sites/all/modules/socialmedia/icons/levelten/glossy/32x32/linkedin.png (linkedin)
-  [3]: https://github.com/weeyum
-  [4]: http://zichenzheng.com/images/icon/github-icon.png (github)
+Platform, big data, and database engineer passionate about disruptive products, hard problems, TDD, and open source while growing knowledge and experience as a software engineer and architect.
 
+I have contributed to a few well-known open source projects. These include [elasticsearch](https://github.com/elastic/elasticsearch), [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails), and [poseidon_cluster](https://github.com/bsm/poseidon_cluster).
 
 ------
 
