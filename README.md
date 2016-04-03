@@ -10,7 +10,7 @@
 
 ### Summary
 
-Platform, big data, and database engineer passionate about disruptive products, hard problems, TDD, and open source while growing knowledge and experience as a software engineer and architect.
+I am a platform, big data, and database engineer passionate about disruptive products, hard problems, TDD, and open source while growing knowledge and experience as a software engineer and architect.
 
 I have contributed to a few well-known open source projects. These include [elasticsearch](https://github.com/elastic/elasticsearch), [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails), and [poseidon_cluster](https://github.com/bsm/poseidon_cluster).
 
@@ -46,10 +46,6 @@ Ruby | Rails | TDD | ElasticSearch | MongoDB | Redis | Kafka | AWS | Heroku
 
 ### Projects
 
-* [newrelic_mongodb](https://github.com/weeyum/newrelic_mongodb)
+* [newrelic_mongodb](https://github.com/weeyum/newrelic_mongodb) NewRelic instrumentation for Mongo Ruby Driver 2.1.0
 
-  NewRelic instrumentation for Mongo Ruby Driver 2.1.0
-
-* [language analyzer service](https://github.com/weeyum/language-analyzer-service)
-
-  heroku 1 click deploy text tokenizer microservice
+* [language analyzer service](https://github.com/weeyum/language-analyzer-service) heroku 1 click deploy text tokenizer microservice
