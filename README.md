@@ -1,5 +1,5 @@
 # William Li
-## Platform Engineer & Rubyist
+## Software Engineer
 
 * [weeyum@gmail.com](mailto:weeyum@gmail.com)
 * (415) 317-5363
@@ -10,21 +10,34 @@
 
 ### Summary
 
-I am a platform, big data, and database engineer passionate about disruptive products, hard problems, TDD, and open source while growing knowledge and experience as a software engineer and architect.
+Software Engineer with a proven history of building, scaling, and maintaining mission-critical systems.
 
-I have contributed to a few well-known open source projects. These include [elasticsearch](https://github.com/elastic/elasticsearch), [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails), and [poseidon_cluster](https://github.com/bsm/poseidon_cluster).
+I am curious about new technologies, hard problems, and building software in a sustainable manner.
+
+I also like ruby. A lot.
 
 ------
 
 ### Technical
 
-Ruby | Rails | TDD | ElasticSearch | MongoDB | Redis | Kafka | AWS | Heroku
+Go | Kubernetes | AWS | Ruby | Rails | Lambda | MySQL | elastic | MongoDB | Redis | Kafka
 
 ------
 
 ### Experience
 
-**Banjo** *Lead Platform Engineer* __December 2015 to present__
+**Airbnb** *Senior Site Reliability Engineer* __June 2016 to June 2019__
+
+  Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale. It currently   covers more than 100,000 cities and 220 countries worldwide.
+
+- Triage live production-impacting incidents and making sure they are resolved in an efficient manner
+- Ran the postmortem program, ensuring we have high quality and timely reports after each incident
+- Evangelize Service Level Objectives within core business teams, helping them set Uptime goals for the first time in company history
+- Authored the Embedded SRE Charter
+- Created self-service integration testing framework "[Veloute](https://www.linkedin.com/in/weeyum/detail/treasury/position:818731466/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABC5KDQBkhbD-eHXB3jynCUId6PLnIWq2_4%2C1556683140907)&parentEntityUrn=urn%3Ali%3Afsd_profilePosition%3A(ACoAABC5KDQBkhbD-eHXB3jynCUId6PLnIWq2_4%2C818731466)&section=position%3A818731466&treasuryCount=1&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bs6lW2BzjTAG80cEnXc%2BIiA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-treasury_thumbnail_cell)"
+- Created self-service migration / scripting framework "Fireball"
+
+**Banjo** *Lead Platform Engineer* __December 2015 to June 2016__
 
   Banjo is a live digital capture of everything that’s happening in the world in real-time.
   Banjo analyzes the world’s social and digital signals the second they occur and organizes them by time and location.
@@ -41,11 +54,3 @@ Ruby | Rails | TDD | ElasticSearch | MongoDB | Redis | Kafka | AWS | Heroku
   - Migrated infrastructure from Heroku to AWS / ElasticBeanstalk
   - Owner / architect of a 50TB MongoDB cluster
   - Developed internal tool used by the entire platform team to monitor background job queues
-
-------
-
-### Projects
-
-* [newrelic_mongodb](https://github.com/weeyum/newrelic_mongodb) NewRelic instrumentation for Mongo Ruby Driver 2.1.0
-
-* [language analyzer service](https://github.com/weeyum/language-analyzer-service) heroku 1 click deploy text tokenizer microservice
