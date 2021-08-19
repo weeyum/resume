@@ -20,11 +20,19 @@ I also like ruby. A lot.
 
 ### Technical
 
-Go | Kubernetes | AWS | Ruby | Rails | Lambda | MySQL | elastic | MongoDB | Redis | Kafka
+Graphql | Go | Kubernetes | AWS | Ruby | Rails | Lambda | MySQL | ElasticSearch | MongoDB | Redis | Kafka
 
 ------
 
 ### Experience
+
+**effx** *Founding Engineer* __June 2019 to present__
+
+  The simplest way to navigate and operate your microservices. Backed by Kleiner Perkins and Cowboy Ventures.
+
+- Developed a secure modern web application using Go / React / Graphql
+- Take part in most facets of the product lifecycle from ideation all the way to production
+- Lead a team of 3 engineers
 
 **Airbnb** *Senior Site Reliability Engineer* __June 2016 to June 2019__
 
