@@ -20,7 +20,7 @@ I also like ruby. A lot.
 
 ### Technical
 
-Graphql | Go | Kubernetes | AWS | Ruby | Rails | Lambda | MySQL | ElasticSearch | MongoDB | Redis | Kafka
+GraphQL | Go | Kubernetes | React | AWS | Ruby | Rails | Lambda | MySQL | ElasticSearch | MongoDB | Redis | Kafka
 
 ------
 
@@ -30,20 +30,18 @@ Graphql | Go | Kubernetes | AWS | Ruby | Rails | Lambda | MySQL | ElasticSearch 
 
   The simplest way to navigate and operate your microservices. Backed by Kleiner Perkins and Cowboy Ventures.
 
-- Developed a secure modern web application using Go / React / Graphql
-- Take part in most facets of the product lifecycle from ideation all the way to production
-- Lead a team of 3 engineers
+- Architected and designed secure modern web application using Go / React / GraphQL
+- Led a team of 3 engineers
 
 **Airbnb** *Senior Site Reliability Engineer* __June 2016 to June 2019__
 
-  Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale. It currently   covers more than 100,000 cities and 220 countries worldwide.
+  Airbnb helps you offer your space to guests – connecting travelers with somewhere to stay.
 
-- Triage live production-impacting incidents and making sure they are resolved in an efficient manner
-- Ran the postmortem program, ensuring we have high quality and timely reports after each incident
-- Evangelize Service Level Objectives within core business teams, helping them set Uptime goals for the first time in company history
+- Triaged live production-impacting incidents and made sure they were resolved in an efficient manner
+- Ran the postmortem program, ensuring we had high quality and timely reports after each incident
+- Evangelized Service Level Objectives within core business teams, helping them set Uptime goals for the first time in company history
 - Authored the Embedded SRE Charter
 - Created self-service integration testing framework "[Veloute](https://www.linkedin.com/in/weeyum/detail/treasury/position:818731466/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABC5KDQBkhbD-eHXB3jynCUId6PLnIWq2_4%2C1556683140907)&parentEntityUrn=urn%3Ali%3Afsd_profilePosition%3A(ACoAABC5KDQBkhbD-eHXB3jynCUId6PLnIWq2_4%2C818731466)&section=position%3A818731466&treasuryCount=1&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bs6lW2BzjTAG80cEnXc%2BIiA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-treasury_thumbnail_cell)"
-- Created self-service migration / scripting framework "Fireball"
 
 **Banjo** *Lead Platform Engineer* __December 2015 to June 2016__
 
@@ -52,13 +50,13 @@ Graphql | Go | Kubernetes | AWS | Ruby | Rails | Lambda | MySQL | ElasticSearch 
 
   - Led effort to optimize large ElasticSearch cluster, leading to a 50% cost reduction
   - Redesigned data ingestion architecture, resulting in a more scalable, cost efficient system
-  - Owner of all search algorithms and behavior
+  - DRI of all search algorithms and behavior
 
 **Banjo** *Platform Engineer* __November 2013 to December 2015__
 
-  - Owner / architect of a 50TB, 100+ node ElasticSearch cluster
+  - Architect of a 50TB, 100+ node ElasticSearch cluster
   - Converted monolith rails application to REST microservices
-  - 24/7 on-call for any platform related incidents
+  - Participated in on-call for all platform related incidents
   - Migrated infrastructure from Heroku to AWS / ElasticBeanstalk
-  - Owner / architect of a 50TB MongoDB cluster
+  - Architect of a 50TB MongoDB cluster
   - Developed internal tool used by the entire platform team to monitor background job queues
